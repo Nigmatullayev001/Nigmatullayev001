@@ -1,6 +1,5 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nigmatullayev001&show_icons=true&theme=radical)
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nigmatullayev001&theme=dark)
 
 
 
@@ -19,3 +18,7 @@ I am an experienced developer specializing in the following technologies:
 - **Others:** Backend Development, Server Management  
 
 📌 **Let’s grow together!** 🚀  
+
+
+My stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nigmatullayev001&show_icons=true&theme=radical)
