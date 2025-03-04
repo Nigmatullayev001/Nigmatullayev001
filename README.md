@@ -1,4 +1,5 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nigmatullayev001&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nigmatullayev001&show_icons=true&theme=radical)
+
 
 
 
