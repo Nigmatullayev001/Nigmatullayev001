@@ -1,5 +1,5 @@
 
-[![Terminal](https://github-readme-terminal.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dark)](https://github.com/0x4rjun/github-readme-terminal)
+[![Terminal](https://github-readme-terminal.vercel.app/?username=Nigmatullayev001&theme=dark)](https://github.com/0x4rjun/github-readme-terminal)
 
 
 
