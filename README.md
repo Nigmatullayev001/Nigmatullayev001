@@ -1,5 +1,6 @@
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nigmatullayev001&theme=onedark)
+[![Terminal](https://github-readme-terminal.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dark)](https://github.com/0x4rjun/github-readme-terminal)
+
 
 
 
