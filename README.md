@@ -1,5 +1,6 @@
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nigmatullayev001&theme=dark)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nigmatullayev001&theme=onedark)
+
 
 
 
@@ -21,4 +22,6 @@ I am an experienced developer specializing in the following technologies:
 
 
 My stats:
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nigmatullayev001&show_icons=true&theme=radical)
