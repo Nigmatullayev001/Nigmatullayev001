@@ -1,4 +1,5 @@
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nigmatullayev001&theme=github)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nigmatullayev001&theme=dark)
+
 
 
 
