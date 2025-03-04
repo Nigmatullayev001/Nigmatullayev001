@@ -1,6 +1,4 @@
-![Particles](https://raw.githubusercontent.com/Platane/particles-bg/master/demo.gif)
-
-
+![Loading](https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif)
 
 
 
