@@ -1,5 +1,4 @@
-
-[![Terminal](https://github-readme-terminal.vercel.app/?username=Nigmatullayev001&theme=dark)](https://github.com/0x4rjun/github-readme-terminal)
+![Particles](https://raw.githubusercontent.com/Platane/particles-bg/master/demo.gif)
 
 
 
