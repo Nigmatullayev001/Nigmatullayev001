@@ -1,5 +1,4 @@
-![Random Meme](https://api.memegen.link/images/ds/Hello/world.png)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+Welcome+to+my+GitHub!;I'm+a+Python+Developer!;Let's+Build+Something+Awesome!;Now+we're+getting+ready+for+a+big+surprise!)](https://git.io/typing-svg)
 
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello, Welcome!  
