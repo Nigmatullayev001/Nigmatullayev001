@@ -1,5 +1,4 @@
-![Loading](https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif)
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 
 
