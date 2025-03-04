@@ -1,12 +1,12 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nigmatullayev001&theme=onedark)
 
-# 👋 Hello, Welcome!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
 
-# 👋 Hello, Welcome!  
+
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Hello, Welcome!  
 
 ### 🚀 **About Me**  
 I am an experienced developer specializing in the following technologies:  
