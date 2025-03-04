@@ -1,4 +1,4 @@
-![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nigmatullayev001&theme=github)
 
 
 
