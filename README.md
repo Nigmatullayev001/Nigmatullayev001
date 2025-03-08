@@ -20,6 +20,7 @@ I am an experienced developer specializing in the following technologies:
 
 ## 📊 My Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nigmatullayev001&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shohruh223&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigmatullayev001&layout=compact&theme=tokyonight)
 
 ---
