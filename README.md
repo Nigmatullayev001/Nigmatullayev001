@@ -4,10 +4,10 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello, Welcome!  
 
-### ![Rocket GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif) **About Me**  
+### <img src="https://i.gifer.com/origin/37/378c647aa78c56c3175c4e62f4a413e7_w200.gif" width="150"> **About Me**  
 I am an experienced developer specializing in the following technologies:  
 
-### ⚡ **Skills**  
+### <img src="https://i.gifer.com/origin/ff/ff07f11b6e99eb69f83ad36d17d31dc4_w200.gif" width="150"> **Skills**  
 - **Programming Language:** Python  
 - **Frameworks:** Django, Django Rest Framework (DRF)  
 - **API Development:** RESTful APIs  
